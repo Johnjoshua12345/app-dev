@@ -1,2 +1,4 @@
 # app-dev
-My first repository
+1. one piece
+2. naruto
+3. bleach
